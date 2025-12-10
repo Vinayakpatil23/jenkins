@@ -14,7 +14,7 @@ pipeline {
         }
  stage('Deploy') {
             steps {
-                echo 'Deploying automatically'
+                echo 'Deploying automatically using jenkins'
             }
         }
     }
